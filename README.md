@@ -34,7 +34,8 @@ A web-based platform for conducting virtual interviews with speech recognition c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vishal2053/Virtual-Interview-Platform.git
+git clone https://github.com/AkshayK2026/Virtual-Interview-Practice-Platform.git
+ 
 cd Vertual-Interview-Platform
 ```
 
@@ -74,3 +75,4 @@ See `requirements.txt` for complete list of Python dependencies.
 ## License
 
 [MIT License](LICENSE) (if applicable)
+
