@@ -1,0 +1,8 @@
+flask
+requests
+python-dotenv
+gtts
+SpeechRecognition
+pydub
+soundfile
+groq
